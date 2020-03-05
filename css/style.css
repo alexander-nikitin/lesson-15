@@ -392,6 +392,8 @@ template {
   .hero__text {
     max-width: 500px;
     font-size: 22px; }
+  .hero__button {
+    margin-right: 20px; }
 
 .scroll-down {
   position: absolute;
